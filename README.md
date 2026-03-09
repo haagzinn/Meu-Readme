@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil do Github!
 
-#Sobre mim
+##Sobre mim
 -Brasileiro
 -18 Anos
 -Interessado em tecnologia
